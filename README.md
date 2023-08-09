@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=yssdheeraj)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=yssdheeraj&theme=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yssdheeraj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dheerajy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
