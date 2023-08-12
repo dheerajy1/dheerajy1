@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=yssdheeraj&theme=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=yssdheeraj&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 ---
 
