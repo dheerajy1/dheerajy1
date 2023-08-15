@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste,
 
 <!--
 **dheerajy1/dheerajy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,13 +24,10 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dheerajy1&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dheerajy1&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dheerajy1&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dheerajy1&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajy1&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajy1&bg_color=000000&color=ffffff&line=24b8d6&point=c3b83c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=yssdheeraj&theme=dracula&response=true&border=true&time=true&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dheerajy1&bg_color=ffffff&color=8a8a8a&line=00d4f0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
