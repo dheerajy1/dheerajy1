@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-- 🔭 I’m currently working on SQL Projects [[Link](https://github.com/dheerajy1/sql-journey)].
+- 🔭 I’m currently working on SQL Projects [[Link](https://github.com/dheerajy1/sql-journey)].[⏸Paused]
 - 📫 How to reach me: [[linkedin.com/in/dheerajy1](https://linkedin.com/in/dheerajy1)] [[twitter.com/yssdheeraj](https://twitter.com/yssdheeraj)]
 
 ---
